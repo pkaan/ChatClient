@@ -1,5 +1,5 @@
 
-ChatClient
+Secure ChatClient (using server and client https certifications)
 
 ![chat_5](https://user-images.githubusercontent.com/63013313/147917675-ea7b713e-b243-477b-9f0e-b45e0cd10743.png)
 
