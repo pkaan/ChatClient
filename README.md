@@ -54,7 +54,7 @@ keytool -export -alias alias -keystore keystore.jks -rfc -file client.cer
 Change server -> (port the server is using)
 https://ip:port/ 
 
-ChatClient connected to the local area network with two users
+Two ChatClients connected to the same server in the same local area network
 ![chat_8](https://user-images.githubusercontent.com/63013313/147919206-cbcae525-29ea-4d95-810d-973518612d60.jpg)
 
 
